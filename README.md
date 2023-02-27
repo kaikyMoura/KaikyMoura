@@ -2,8 +2,6 @@
 
 - Tenho 19 anos 🙂
 - Estou cursando ADS na Faculdade Senac pe
-- Atualmente estou trabalhando nesse repositório:
-<a href="https://github.com/kaikyMoura/Peladeiros-Native/tree/Kaiky-branch">https://github.com/kaikyMoura/Peladeiros-Native/tree/Kaiky-branch</a>
 
 
 # Sobre mim:
