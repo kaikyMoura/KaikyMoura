@@ -1,7 +1,7 @@
 ### Olá! Me chamo KaikyMoura 👋
 
-- Tenho 19 anos 🙂
-- Estou cursando ADS na Faculdade Senac pe
+- Tenho 21 anos 🙂
+- Sou formado em Análise e Desenvolvimento de Sistemas, pela faculdade Senac pernambuco.
 
 
 # Sobre mim:
