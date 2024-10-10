@@ -1,17 +1,54 @@
-### Olá! Me chamo KaikyMoura 👋
+# Sobre mim:
+
+
+### Olá! Me chamo Kaiky 👋
 
 - Tenho 21 anos 🙂
 - Sou formado em Análise e Desenvolvimento de Sistemas, pela faculdade Senac pernambuco.
 
 
-# Sobre mim:
 
 
-<div align="center">
-  <a href="https://github.com/KaikyMoura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikyMoura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyMoura&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+# Meus projetos
+
+## Projetos React
+
+| Nome                                                                | Descrição                               | Principais Tecnologias               |
+|---------------------------------------------------------------------|-----------------------------------------|--------------------------------------|
+| [Expense Manager BackEnd](https://github.com/kaikyMoura/expense-manager)  | Aplicação para controle de despesas/gastos  | Nexjs, TypeScript, Tailwindcss |
+| [Prejto Next](https://github.com/kaikyMoura/projeto-next-react)  | Projeto de autenticação com React e Spring  | Nexjs, TypeScript, Tailwindcss |
+| [Beuty Salon](https://github.com/kaikyMoura/frontEnd-beutysalon)  | Camada visual para o desafio da sov | Nexjs, TypeScript, Tailwindcss, framer-motion |
+
+
+## Projetos Java
+
+| Nome                                                                | Descrição                               | Principais Tecnologias               |
+|---------------------------------------------------------------------|-----------------------------------------|--------------------------------------|
+| [Expense Manager BackEnd](https://github.com/kaikyMoura/backEnd-ExpenseManager)  | Camada de serviço da aplicação para controle de despesas/gastos  | Java, Spring, JWT, Segurança, GCP |
+| [Autenticação com Spring](https://github.com/kaikyMoura/autenticacao---spring-Security) | Camada de serviço para autenticar usuários | Java, Spring, JWT, Segurança |
+| [Serivço de contas](https://github.com/kaikyMoura/spring-account-service)| Api de contatos e usuários | Java, Spring, Postgres |
+
+  <div align="center"> <a href="https://github.com/kaikyMoura?tab=repositories">Ver mais</a> </div>
+
+##
+
+
+
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/KaikyMoura">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikyMoura&show_icons=true&theme=dracula"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/KaikyMoura">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyMoura&layout=compact&langs_count=7&theme=dracula"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
