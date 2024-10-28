@@ -6,6 +6,7 @@
 - Tenho 21 anos 🙂
 - Sou formado em Análise e Desenvolvimento de Sistemas, pela faculdade Senac pernambuco.
 
+🔗 [Meu currículo](https://github.com/user-attachments/files/17545641/Kaiky_Tupinamba-desenvolvedor_de_softwate.pdf)
 
 
 
