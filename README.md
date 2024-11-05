@@ -4,9 +4,11 @@
 ### Olá! Me chamo Kaiky 👋
 
 - Tenho 21 anos 🙂
-- Sou formado em Análise e Desenvolvimento de Sistemas, pela faculdade Senac pernambuco.
+- Sou formado em Análise e Desenvolvimento de Sistemas, pela Faculdade Senac Pernambuco.
 
 🔗 [Meu currículo](https://github.com/user-attachments/files/17545641/Kaiky_Tupinamba-desenvolvedor_de_softwate.pdf)
+
+🔗 [My resume](https://github.com/user-attachments/files/17634915/Kaiky_Tupinamba_software_developer.pdf)
 
 
 
