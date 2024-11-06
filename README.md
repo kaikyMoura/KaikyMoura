@@ -55,7 +55,7 @@
 
 
 
-# Linguagens e Frameworks que utilizo:
+# Linguagens e Tecnologias que utilizo:
 
 <div dir="auto">
   <br>
@@ -71,6 +71,9 @@
     <img align="center" alt="Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width: 100%;">
     <img align="center" alt="NextJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="max-width: 100%;" >
     <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" style="max-width: 100%;"/>
+<img align="center" alt="Gcloud" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"  style="max-width: 100%;" />
+<img align="center" alt="Junit" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"  style="max-width: 100%;" />
+                     
 </div>
 
 
