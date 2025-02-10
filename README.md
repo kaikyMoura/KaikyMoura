@@ -1,4 +1,4 @@
-# <h1 align="center">About me / Sobre mim:</h1>
+# <h1 align="center">About me:</h1>
 
 
 ### Hello! My name is Kaiky, I'm a Web Developer and this is a little about me. 👋
