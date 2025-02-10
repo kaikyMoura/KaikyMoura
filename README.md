@@ -1,37 +1,46 @@
-# Sobre mim:
+# <h1 align="center">About me / Sobre mim:</h1>
 
 
-### Olá! Me chamo Kaiky 👋
+### Hello! My name is Kaiky, I'm a Web Developer and this is a little about me. 👋
 
-- Tenho 21 anos 🙂
-- Sou formado em Análise e Desenvolvimento de Sistemas, pela Faculdade Senac Pernambuco.
+- I am 21 🙂
+- I have a technologist degree in Systems Analysis and Development from Faculdade Senac Pernambuco.
 
-🔗 [Meu currículo](https://github.com/user-attachments/files/17545641/Kaiky_Tupinamba-desenvolvedor_de_softwate.pdf)
-
-🔗 [My resume](https://github.com/user-attachments/files/17634915/Kaiky_Tupinamba_software_developer.pdf)
+🔗 [Meu currículo](https://github.com/user-attachments/files/17545641/Kaiky_Tupinamba-desenvolvedor_de_softwate.pdf) (pt-br) / 🔗 [My resume](https://github.com/user-attachments/files/17634915/Kaiky_Tupinamba_software_developer.pdf) (en)
 
 
 
-# Meus projetos
+# My Projects
 
-## Projetos React
+## React Projects
 
-| Nome                                                                | Descrição                               | Principais Tecnologias               |
+| Name                                                                | Description                               | Main Technologies               |
 |---------------------------------------------------------------------|-----------------------------------------|--------------------------------------|
-| [Expense Manager BackEnd](https://github.com/kaikyMoura/expense-manager)  | Aplicação para controle de despesas/gastos  | Nexjs, TypeScript, Tailwindcss |
-| [Prejto Next](https://github.com/kaikyMoura/projeto-next-react)  | Projeto de autenticação com React e Spring  | Nexjs, TypeScript, Tailwindcss |
-| [Beuty Salon](https://github.com/kaikyMoura/frontEnd-beutysalon)  | Camada visual para o desafio da sov | Nexjs, TypeScript, Tailwindcss, framer-motion |
+| [Expense Manager BackEnd](https://github.com/kaikyMoura/expense-manager)  | Aplication for expense management  | Nexjs, TypeScript, Tailwindcss |
+| [Prejto Next](https://github.com/kaikyMoura/projeto-next-react)  | Authentication project using React and Spring  | Nexjs, TypeScript, Tailwindcss |
+| [Beuty Salon](https://github.com/kaikyMoura/frontEnd-beutysalon)  | Visual layer for Sov's challenge | Nexjs, TypeScript, Tailwindcss, framer-motion |
+|                                                  | <div align="center"> <a href="https://github.com/kaikyMoura?tab=repositories&q=&type=&language=java&sort=">See more</a> </div> |               |
 
 
-## Projetos Java
+## Java Projects
 
-| Nome                                                                | Descrição                               | Principais Tecnologias               |
+| Name                                                                | Description                               | Main Technologies               |
 |---------------------------------------------------------------------|-----------------------------------------|--------------------------------------|
-| [Expense Manager BackEnd](https://github.com/kaikyMoura/backEnd-ExpenseManager)  | Camada de serviço da aplicação para controle de despesas/gastos  | Java, Spring, JWT, Segurança, GCP |
-| [Autenticação com Spring](https://github.com/kaikyMoura/autenticacao---spring-Security) | Camada de serviço para autenticar usuários | Java, Spring, JWT, Segurança |
-| [Serivço de contas](https://github.com/kaikyMoura/spring-account-service)| Api de contatos e usuários | Java, Spring, Postgres |
+| [Expense Manager BackEnd](https://github.com/kaikyMoura/backEnd-ExpenseManager)  | Service layer for the expense management application  | Java, Spring, JWT, Spring Security, GCP |
+| [Autenticação com Spring](https://github.com/kaikyMoura/autenticacao---spring-Security) | Service layer for user authentication | Java, Spring, JWT, Spring Security |
+| [Serivço de contas](https://github.com/kaikyMoura/spring-account-service)| API for managing contacts and users | Java, Spring, Postgres |
+|                                                  | <div align="center"> <a href="https://github.com/kaikyMoura?tab=repositories&q=&type=&language=java&sort=">See more</a> </div> |               |
 
-  <div align="center"> <a href="https://github.com/kaikyMoura?tab=repositories">Ver mais</a> </div>
+
+## Node and TypeScript Projects
+
+| Name                                                                | Description                               | Main Technologies               |
+|---------------------------------------------------------------------|-----------------------------------------|--------------------------------------|
+| [Task list manager Service](https://github.com/kaikyMoura/taskList_manager_service)  | This project represents the back-end implementation of the TaskQuest, a WebApp designed for task management  | Node, TypeScript, JWT, Prisma, Express |
+| [Aqua_Gas image processor](https://github.com/kaikyMoura/aqua_gas_image_processor) | Image processing API for water or gas bills. |  Node, TypeScript, Gemini-api, Google Cloud Storage, Prisma, Express |
+|                                                  | <div align="center"> <a href="https://github.com/kaikyMoura?tab=repositories&q=&type=&language=typescript&sort=">See more</a> </div> |               |
+
+ ### <div align="center"> <a href="https://github.com/kaikyMoura?tab=repositories">See all</a> </div>
 
 ##
 
@@ -55,7 +64,7 @@
 
 
 
-# Linguagens e Tecnologias que utilizo:
+# Languages and Technologies I use:
 
 <div dir="auto">
   <br>
@@ -68,17 +77,18 @@
     <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
     <img align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="max-width: 100%;">
     <img align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;">
-    <img align="center" alt="Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width: 100%;">
+    <img align="center" alt="Prisma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" style="max-width: 100%;"/>
     <img align="center" alt="NextJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="max-width: 100%;" >
     <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" style="max-width: 100%;"/>
 <img align="center" alt="Gcloud" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"  style="max-width: 100%;" />
 <img align="center" alt="Junit" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"  style="max-width: 100%;" />
-                     
+<img align="center" alt="Jest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="max-width: 100%;"/> 
+                                       
 </div>
 
 
 
-# Contato:
+# Contact:
 <div>
 <a href = "mailto:kaikymoura972@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kaiky-de-moura-tupinamba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
