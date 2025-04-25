@@ -16,7 +16,7 @@
 
 | Name                                                                | Description                               | Main Technologies               |
 |---------------------------------------------------------------------|-----------------------------------------|--------------------------------------|
-| [Basketball Advanced Stats](https://github.com/kaikyMoura/Basketball-Advanced-Stats)  | A dynamic application that delivers real-time NBA data, stats, and articles  | Nexjs, TypeScript, Tailwindcss |
+| BackCourt](https://github.com/kaikyMoura/BackCourt)  | A dynamic application that delivers real-time NBA data, stats, and articles  | Nexjs, TypeScript, Tailwindcss |
 | [Expense Manager](https://github.com/kaikyMoura/expense-manager)  | Aplication for expense management  | Nexjs, TypeScript, Tailwindcss |
 | [FileLens](https://github.com/kaikyMoura/FileLens_FrontEnd)  | FileLens is an application  responsible for user authentication, file management, and manipulation | Nexjs, TypeScript, Tailwindcss |
 | [Beuty Salon](https://github.com/kaikyMoura/frontEnd-beutysalon)  | Visual layer for Sov's challenge | Nexjs, TypeScript, Tailwindcss, framer-motion |
