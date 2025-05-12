@@ -6,9 +6,6 @@
 - I am 21 🙂
 - I have a technologist degree in Systems Analysis and Development from Faculdade Senac Pernambuco.
 
-🔗 [Meu currículo](https://github.com/user-attachments/files/17545641/Kaiky_Tupinamba-desenvolvedor_de_softwate.pdf) (pt-br) / 🔗 [My resume](https://github.com/user-attachments/files/17634915/Kaiky_Tupinamba_software_developer.pdf) (en)
-
-
 
 # My Projects
 
