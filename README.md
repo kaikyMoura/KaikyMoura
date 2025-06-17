@@ -1,7 +1,7 @@
 # <h1 align="center">About me:</h1>
 
 
-### Hello! My name is Kaiky, I'm a Web Developer and this is a little about me. 👋
+### Hello! My name is Kaiky, I'm a Fullstack developer and this is a little about me and my projects. 👋
 
 - I am 21 🙂
 - I have a technologist degree in Systems Analysis and Development from Faculdade Senac Pernambuco.
@@ -14,19 +14,8 @@
 | Name                                                                | Description                               | Main Technologies               |
 |---------------------------------------------------------------------|-----------------------------------------|--------------------------------------|
 | [BackCourt](https://github.com/kaikyMoura/BackCourt)  | A dynamic application that delivers real-time NBA data, stats, and articles  | Nexjs, TypeScript, Tailwindcss |
-| [Expense Manager](https://github.com/kaikyMoura/expense-manager)  | Aplication for expense management  | Nexjs, TypeScript, Tailwindcss |
+| [Schedule Pro](https://github.com/kaikyMoura/Schedule-Pro) | A SaaS aplication for book services and manage customers  | Nexjs, TypeScript, Tailwindcss, Zustand, Zod, Google oauth provider |
 | [FileLens](https://github.com/kaikyMoura/FileLens_FrontEnd)  | FileLens is an application  responsible for user authentication, file management, and manipulation | Nexjs, TypeScript, Tailwindcss |
-| [Beuty Salon](https://github.com/kaikyMoura/frontEnd-beutysalon)  | Visual layer for Sov's challenge | Nexjs, TypeScript, Tailwindcss, framer-motion |
-|                                                  | <div align="center"> <a href="https://github.com/kaikyMoura?tab=repositories&q=&type=&language=java&sort=">See more</a> </div> |               |
-
-
-## Java Projects
-
-| Name                                                                | Description                               | Main Technologies               |
-|---------------------------------------------------------------------|-----------------------------------------|--------------------------------------|
-| [Expense Manager BackEnd](https://github.com/kaikyMoura/backEnd-ExpenseManager)  | Service layer for the expense management application  | Java, Spring, JWT, Spring Security, GCP |
-| [Autenticação com Spring](https://github.com/kaikyMoura/autenticacao---spring-Security) | Service layer for user authentication | Java, Spring, JWT, Spring Security |
-| [Serivço de contas](https://github.com/kaikyMoura/spring-account-service)| API for managing contacts and users | Java, Spring, Postgres |
 |                                                  | <div align="center"> <a href="https://github.com/kaikyMoura?tab=repositories&q=&type=&language=java&sort=">See more</a> </div> |               |
 
 
@@ -34,8 +23,9 @@
 
 | Name                                                                | Description                               | Main Technologies               |
 |---------------------------------------------------------------------|-----------------------------------------|--------------------------------------|
-| [Task list manager Service](https://github.com/kaikyMoura/taskList_manager_service)  | This project represents the back-end implementation of the TaskQuest, a WebApp designed for task management  | Node, TypeScript, JWT, Prisma, Express |
-| [Aqua_Gas image processor](https://github.com/kaikyMoura/aqua_gas_image_processor) | Image processing API for water or gas bills. |  Node, TypeScript, Gemini-api, Google Cloud Storage, Prisma, Express |
+| [Schedule Pro API](https://github.com/kaikyMoura/Schedule-Pro-API)  | Schedule Pro API is the backend service for the Schedule Pro platform. It provides robust authentication, session management, role-based access control (RBAC), email notifications via SendGrid, and OTP-based verification using Twilio. This API ensures secure user management and communication flows for the application. | Nest, TypeScript, Authentication, RBAC, Prisma, SendGrid, Twilio, Swagger |
+| [Dokra](https://github.com/kaikyMoura/aqua_gas_image_processor) | Dokra is an intelligent backend API for analyzing and extracting structured information from documents (PDFs, docx, images, plain text, etc...) powered by LLMs. |  Nest, TypeScript, Gemini-api, Google Cloud Vision, Prisma, Authentication, RBAC, Swagger |
+| [Filelens](https://github.com/kaikyMoura/FileLens-backend) | FileLens is a back-end application that allows users to upload files and uses AI for real-time image recognition. |  Express, TypeScript, Node, Gemini-api, Google Cloud Storage, Prisma, Authentication, Swagger |
 |                                                  | <div align="center"> <a href="https://github.com/kaikyMoura?tab=repositories&q=&type=&language=typescript&sort=">See more</a> </div> |               |
 
  ### <div align="center"> <a href="https://github.com/kaikyMoura?tab=repositories">See all</a> </div>
