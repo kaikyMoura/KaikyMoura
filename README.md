@@ -3,7 +3,7 @@
 
 ### Hello! My name is Kaiky, I'm a Fullstack developer and this is a little about me and my projects. 👋
 
-- I am 21 🙂
+- I am 22 🙂
 - I have a technologist degree in Systems Analysis and Development from Faculdade Senac Pernambuco.
 
 
@@ -14,9 +14,9 @@
 | Name                                                                | Description                               | Main Technologies               |
 |---------------------------------------------------------------------|-----------------------------------------|--------------------------------------|
 | [BackCourt](https://github.com/kaikyMoura/BackCourt)  | A dynamic application that delivers real-time NBA data, stats, and articles  | Nexjs, TypeScript, Tailwindcss |
-| [Schedule Pro](https://github.com/kaikyMoura/Schedule-Pro) | A SaaS aplication for book services and manage customers  | Nexjs, TypeScript, Tailwindcss, Zustand, Zod, Google oauth provider |
-| [FileLens](https://github.com/kaikyMoura/FileLens_FrontEnd)  | FileLens is an application  responsible for user authentication, file management, and manipulation | Nexjs, TypeScript, Tailwindcss |
-|                                                  | <div align="center"> <a href="https://github.com/kaikyMoura?tab=repositories&q=&type=&language=java&sort=">See more</a> </div> |               |
+| [Schedule Pro](https://github.com/kaikyMoura/Schedule-Pro) | A SaaS aplication for book services and manage customers  | Nexjs, TypeScript, Tailwindcss, Zustand, Zod, Google oauth provider, shadcn-ui |
+| [Dokra](https://github.com/kaikyMoura/_Dokra_)  | Dokra is a web appplication for file processing with ai | Nexjs, TypeScript, Tailwindcss,zod, shadcn-ui |
+|                                                  | <div align="center"> <a href="https://github.com/kaikyMoura?tab=repositories&q=&type=&language=typescript&sort=">See more</a> </div> |               |
 
 
 ## Node and TypeScript Projects
@@ -24,7 +24,7 @@
 | Name                                                                | Description                               | Main Technologies               |
 |---------------------------------------------------------------------|-----------------------------------------|--------------------------------------|
 | [Schedule Pro API](https://github.com/kaikyMoura/Schedule-Pro-API)  | Schedule Pro API is the backend service for the Schedule Pro platform. It provides robust authentication, session management, role-based access control (RBAC), email notifications via SendGrid, and OTP-based verification using Twilio. This API ensures secure user management and communication flows for the application. | Nest, TypeScript, Authentication, RBAC, Prisma, SendGrid, Twilio, Swagger |
-| [Dokra](https://github.com/kaikyMoura/aqua_gas_image_processor) | Dokra is an intelligent backend API for analyzing and extracting structured information from documents (PDFs, docx, images, plain text, etc...) powered by LLMs. |  Nest, TypeScript, Gemini-api, Google Cloud Vision, Prisma, Authentication, RBAC, Swagger |
+| [Dokra API](https://github.com/kaikyMoura/aqua_gas_image_processor) | Dokra is an intelligent backend API for analyzing and extracting structured information from documents (PDFs, docx, images, plain text, etc...) powered by LLM and OCR. |  Nest, TypeScript, Gemini-api, Google Cloud Vision, Prisma, Authentication, RBAC, Swagger |
 | [Filelens](https://github.com/kaikyMoura/FileLens-backend) | FileLens is a back-end application that allows users to upload files and uses AI for real-time image recognition. |  Express, TypeScript, Node, Gemini-api, Google Cloud Storage, Prisma, Authentication, Swagger |
 |                                                  | <div align="center"> <a href="https://github.com/kaikyMoura?tab=repositories&q=&type=&language=typescript&sort=">See more</a> </div> |               |
 
@@ -54,25 +54,7 @@
 
 # Languages and Technologies I use:
 
-<div dir="auto">
-  <br>
-    <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" style="max-width: 100%;">
-     <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-    <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-    <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;">
-    <img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%;">   
-    <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%;">
-    <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
-    <img align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="max-width: 100%;">
-    <img align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;">
-    <img align="center" alt="Prisma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" style="max-width: 100%;"/>
-    <img align="center" alt="NextJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="max-width: 100%;" >
-    <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" style="max-width: 100%;"/>
-<img align="center" alt="Gcloud" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"  style="max-width: 100%;" />
-<img align="center" alt="Junit" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"  style="max-width: 100%;" />
-<img align="center" alt="Jest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="max-width: 100%;"/> 
-                                       
-</div>
+<p align="center"> <img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> <img alt="HTML" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> <img alt="CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img alt="NestJS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" /> <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img alt="Spring" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img alt="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img alt="Prisma" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" /> <img alt="Next.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> <img alt="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /> <img alt="Google Cloud" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /> <img alt="JUnit" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" /> <img alt="Jest" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /> </p>
 
 
 
